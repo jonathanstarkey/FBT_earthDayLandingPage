@@ -1,0 +1,60 @@
+.wrapper {
+    margin: 0 auto;
+    width: 1280px;
+}
+
+.body-grid {
+    height: 1280px;
+    position: relative;
+    
+    border: solid 1px   red;
+}
+
+.grid-block1 {
+    width: 410px;
+    height: 850px;
+    margin-bottom: 20px;
+    line-height: 200px;
+    text-align: center;
+}
+
+.grid-block3 {
+    width: 420px;
+    height: 420px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 200px;
+    text-align: center;
+}
+
+.grid-block2 {
+    width: 850px;
+    height: 410px;
+    margin-bottom: 20px;
+    line-height: 96px;
+    text-align: center;
+}
+
+.floatleft {
+    float: left !important;
+}
+
+.floatright {
+    float: right !important;
+}
+
+.solid-red {
+    background: #E51400;
+}
+
+.solid-darkgreen {
+    background: #016C38;
+}
+
+.solid-orange-2 {
+    background: #FF6600;
+}
+
+.solid-blue {
+    background: #00BBE2;
+}
